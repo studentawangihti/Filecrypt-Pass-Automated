@@ -1,0 +1,34 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment & Virtualenv
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Browser profiles, user session & cookies (Private & Large)
+fc_chrome_profile/
+Bekas bekas file/
+
+# Large media & screen recordings
+*.mp4
+*.avi
+*.mkv
+*.mov
+
+# Logs & debugging
+logs/
+*.log
+
+# Iteration / temp test outputs
+hasil_ekstrak/contoh salah sebelum benar/
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
